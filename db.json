@@ -4,13 +4,25 @@
       "srvupdatetime": "20231023T1600",
       "datatime": "20231023T1559",
       "userid": "piotr.brzoskowski@solneo.pl",
-      "devid": "S100555324",
+      "devid": "S9876543210",
       "receivedkwh_h": 4.23,
       "sentkwh_h": 2.3,
       "receivedkwh_d": 9.7,
       "sentkwh_d": 5.3,
       "receivedkwh_t": 20152.23,
       "sentkwh_t": 5331.22
+    },
+  {
+      "srvupdatetime": "20231028T1700",
+      "datatime": "20231028T1657",
+      "userid": "piotr.brzoskowski@solneo.pl",
+      "devid": "S987654321A",
+      "receivedkwh_h": 5.12,
+      "sentkwh_h": 1.9,
+      "receivedkwh_d": 10.3,
+      "sentkwh_d": 4.9,
+      "receivedkwh_t": 1152.18,
+      "sentkwh_t": 623.43
     }
   ]
   }
